@@ -24,8 +24,9 @@ Este espacio es mi rincón digital donde comparto proyectos, apuntes de estudio 
 ---
 
 ### 🔭 Proyectos y Apuntes Destacados
-
+<!--
 -   🐧 **[Guía de Estudio LFCS](https://github.com/dozamo/lfcs)**: Mis apuntes personales y guía de estudio para la certificación LFCS, construida con Jekyll y desplegada de forma nativa en GitHub Pages.
+-->
 -   🛠️ **[Proyectos en GitLab](https://gitlab.com/USUARIO_DE_GITLAB)**: Mi perfil en GitLab donde exploro otras herramientas y pipelines de CI/CD. *(Reemplaza USUARIO_DE_GITLAB con tu usuario)*
 
 ---
