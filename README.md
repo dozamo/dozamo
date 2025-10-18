@@ -24,7 +24,7 @@ Este espacio es mi rincón digital donde comparto proyectos, apuntes de estudio 
 ---
 
 ### 🔭 Proyectos y Apuntes Destacados
--   🐧 **[Mís notas de IT](https://github.com/dozamo/mydocs)**: Mis apuntes personales y/o guía de estudio y otras notas, sitio construida con Hugo + theme Docsy.
+<!-- -   🐧 **[Mís notas de IT](https://github.com/dozamo/mydocs)**: Mis apuntes personales y/o guía de estudio y otras notas, sitio construida con Hugo + theme Docsy. -->
 -   🛠️ **[Proyectos en GitLab](https://gitlab.com/dzamo)**: Mi perfil en GitLab donde exploro otras herramientas y pipelines de CI/CD.
 
 ---
